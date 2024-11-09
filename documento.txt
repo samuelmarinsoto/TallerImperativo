@@ -1,0 +1,15 @@
+La programación en C es fundamental en el desarrollo de 
+software debido a su eficiencia y control sobre el hardware. 
+Este lenguaje, creado en los años 70, sigue siendo ampliamente 
+utilizado en sistemas operativos, desarrollo de software embebido y aplicaciones 
+que requieren un rendimiento óptimo. C permite al programador gestionar 
+directamente la memoria, lo que es ventajoso en aplicaciones que 
+necesitan control fino de recursos, aunque también aumenta la responsabilidad 
+en la gestión de errores. Su sintaxis concisa y su 
+flexibilidad lo convierten en una excelente opción para construir estructuras 
+de datos complejas y algoritmos eficientes. Además, al ser un 
+lenguaje de bajo nivel, C es la base de muchos 
+otros lenguajes de programación modernos, lo que facilita la transición 
+hacia lenguajes como C++ y Java. A pesar de los 
+años, C sigue siendo una herramienta poderosa y vigente en 
+el mundo de la programación. 
