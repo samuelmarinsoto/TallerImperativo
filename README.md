@@ -11,3 +11,6 @@
 `clang`, `make`
 
 modificar variable `CC` en `Makefile` en caso de utilizar otro compilador 
+
+
+Copyright (C) 2024 Samuel Marín Soto
